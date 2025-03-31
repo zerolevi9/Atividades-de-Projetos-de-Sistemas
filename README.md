@@ -10,8 +10,8 @@ Aqui você encontrará todas as atividades desenvolvidas ao longo do curso, cada
 Cada *branch* deste repositório corresponde a uma atividade prática da disciplina. Abaixo está a lista das *branches* disponíveis:  
 
 ### 🌿 Branches  
-- `main` ➡️ **Branch principal** (XX)
-- `MVC_calc` ➡️ **Factory / Reflection** (Calculadora em Java utilizando Factory e reflection)
+- `main` ➡️ **Branch principal** (A atual)
+- `MVC_calc` ➡️ **Calculadora MVC** (Calculadora em Java utilizando uma estrutura de MVC)
 - *(Mais branches serão adicionadas conforme o avanço da disciplina!)*  
 
 ---
