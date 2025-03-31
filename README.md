@@ -1,54 +1,32 @@
-# 📚 Repositório de Atividades - Projeto de sistemas (PS)  
+# 🧮 Calculadora MVC
 
-Bem-vindo ao repositório da disciplina **Projeto de sistema**! 🎉  
-Aqui você encontrará todas as atividades desenvolvidas ao longo do curso, cada uma em sua respectiva *branch*.  
+## 📌 Descrição
 
----
+Este projeto implementa uma calculadora simples seguindo a arquitetura MVC (Model-View-Controller). O objetivo é demonstrar a separação entre a lógica de negócio (Model), a interface do usuário (View) e o controle das interações (Controller).
 
-## 📋 Estrutura do Repositório  
+## 🛠️ Tecnologias Utilizadas
 
-Cada *branch* deste repositório corresponde a uma atividade prática da disciplina. Abaixo está a lista das *branches* disponíveis:  
+🔹 Linguagem: Java
 
-### 🌿 Branches  
-- `main` ➡️ **Branch principal** (XX)
-- `MVC_calc` ➡️ **Factory / Reflection** (Calculadora em Java utilizando Factory e reflection)
-- *(Mais branches serão adicionadas conforme o avanço da disciplina!)*  
+🔹 Paradigma: Programação Orientada a Objetos (POO)
 
----
+### 📂 Estrutura do Projeto
 
-## 🛠️ Como Utilizar  
+```calculadora_mvc/
+│── src/
+│   │── model/         # Responsável pela lógica da calculadora
+│   │── view/          # Responsável pela interface com o usuário
+│   │── controller/    # Gerencia a comunicação entre Model e View
+│── Main.java          # Ponto de entrada do programa
+```
 
-1. **Clone o repositório**  
-   ```bash
-   git clone https://github.com/seu-usuario/doo-atividades.git
-   ```
+## 🔎 Funcionamento
 
-2. **Navegue até a branch desejada**  
-   ```bash
-   git checkout atividade-01
-   ```
-   *(Substitua `atividade-01` pelo nome da branch que deseja acessar.)*  
+🟢 O Model realiza os cálculos matemáticos (adição, subtração, multiplicação e divisão).
 
-3. **Explore os arquivos e implementações** 📂  
-   Cada branch contém:  
-   - Código-fonte da atividade (`/src`)  
-   - Documentação (se aplicável)  
-   - Instruções específicas (em `README.md` da branch)  
+🟢 A View exibe os resultados e solicita entradas do usuário.
 
----
+🟢 O Controller gerencia a interação entre Model e View, capturando entradas e retornando saídas.
 
-## 📌 Regras e Observações  
+Feito por Levi Monteiro Silva 👨‍💻 🫡(Atualizado em: 📅 31/03/2025)
 
-✔️ **Não faça commits diretamente na `main`** – Sempre crie uma *branch* para suas alterações.  
-✔️ **Mantenha o padrão de nomenclatura** – `nome_do_conteúdo` para facilitar a organização.  
-✔️ **Dúvidas?** Abra uma *issue* ou consulte o autor e/ou professor! 💡  
-
----
-
-Feito por Levi Monteiro Silva 👨‍💻 🫡 
-
-*(Atualizado em: 📅 `31/03/2025`)*  
-
----  
-
-🔹 **Happy Coding!** 🔹
