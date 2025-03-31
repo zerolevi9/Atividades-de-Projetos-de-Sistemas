@@ -11,7 +11,7 @@ Cada *branch* deste repositório corresponde a uma atividade prática da discipl
 
 ### 🌿 Branches  
 - `main` ➡️ **Branch principal** (XX)
-- `factory_reflection_calc` ➡️ **Factory / Reflection** (Calculadora em Java utilizando Factory e reflection)
+- `MVC_calc` ➡️ **Factory / Reflection** (Calculadora em Java utilizando Factory e reflection)
 - *(Mais branches serão adicionadas conforme o avanço da disciplina!)*  
 
 ---
