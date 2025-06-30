@@ -22,7 +22,7 @@ Cada *branch* deste repositório corresponde a uma atividade prática da discipl
 
 1. **Clone o repositório**  
    ```bash
-   git clone https://github.com/seu-usuario/doo-atividades.git
+   git clone https://github.com/seu-usuario/doo-atividades.git](https://github.com/zerolevi9/Atividades-de-Projetos-de-Sistemas.git
    ```
 
 2. **Navegue até a branch desejada**  
