@@ -11,7 +11,9 @@ Cada *branch* deste repositório corresponde a uma atividade prática da discipl
 
 ### 🌿 Branches  
 - `main` ➡️ **Branch principal** (A atual)
-- `MVC_calc` ➡️ **Calculadora MVC** (Calculadora em Java utilizando uma estrutura de MVC)
+- `MVC_calc` ➡️ **Calculadora MVC** 
+- `CALC_lib` ➡️ **Lib de uma Calculadora** 
+- `CALC_FastAPI` ➡️ **Calculadora utilizando FastAPI** 
 - *(Mais branches serão adicionadas conforme o avanço da disciplina!)*  
 
 ---
