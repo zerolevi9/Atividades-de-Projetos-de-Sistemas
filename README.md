@@ -1,23 +1,54 @@
-# 🧮 Calculadora Orientada a Objetos - Projeto de Sistemas (PS)
+# 📚 Repositório de Atividades - Projeto de sistemas (PS)  
 
-Bem-vindo ao repositório da atividade de **Calculadora OO** da disciplina *Projeto de Sistemas*! 🚀  
-Aqui você encontrará uma implementação simples, porém estruturada, de uma calculadora com as quatro operações básicas.
-
----
-
-## 📋 Descrição da Atividade
-
-A proposta da atividade é:  
-
-> **"Faça uma calculadora com as seguintes operações: Somar, Subtrair, Dividir e Multiplicar, passando como parâmetro uma classe com os valores."**  
-
-O objetivo é aplicar os conceitos de programação orientada a objetos (POO) em Java, utilizando classes, métodos e encapsulamento.
+Bem-vindo ao repositório da disciplina **Projeto de sistema**! 🎉  
+Aqui você encontrará todas as atividades desenvolvidas ao longo do curso, cada uma em sua respectiva *branch*.  
 
 ---
 
+## 📋 Estrutura do Repositório  
 
-## 🚀 Como Executar
+Cada *branch* deste repositório corresponde a uma atividade prática da disciplina. Abaixo está a lista das *branches* disponíveis:  
+
+### 🌿 Branches  
+- `main` ➡️ **Branch principal** (A atual)
+- `MVC_calc` ➡️ **Calculadora MVC** (Calculadora em Java utilizando uma estrutura de MVC)
+- *(Mais branches serão adicionadas conforme o avanço da disciplina!)*  
+
+---
+
+## 🛠️ Como Utilizar  
 
 1. **Clone o repositório**  
    ```bash
-   [git clone https://github.com/seu-usuario/calculadora-oo.git](https://github.com/zerolevi9/Atividades-de-Projetos-de-Sistemas/tree/CALC_FastAPI)
+   git clone https://github.com/seu-usuario/doo-atividades.git
+   ```
+
+2. **Navegue até a branch desejada**  
+   ```bash
+   git checkout atividade-01
+   ```
+   *(Substitua `atividade-01` pelo nome da branch que deseja acessar.)*  
+
+3. **Explore os arquivos e implementações** 📂  
+   Cada branch contém:  
+   - Código-fonte da atividade (`/src`)  
+   - Documentação (se aplicável)  
+   - Instruções específicas (em `README.md` da branch)  
+
+---
+
+## 📌 Regras e Observações  
+
+✔️ **Não faça commits diretamente na `main`** – Sempre crie uma *branch* para suas alterações.  
+✔️ **Mantenha o padrão de nomenclatura** – `nome_do_conteúdo` para facilitar a organização.  
+✔️ **Dúvidas?** Abra uma *issue* ou consulte o autor e/ou professor! 💡  
+
+---
+
+Feito por Levi Monteiro Silva 👨‍💻 🫡 
+
+*(Atualizado em: 📅 `30/06/2025`)*  
+
+---  
+
+🔹 **Happy Coding!** 🔹
